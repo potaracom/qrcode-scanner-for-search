@@ -27,10 +27,13 @@ https://github.com/potaracom/qrcode-scanner-for-search/releases/download/v3/qrco
 
 # 更新情報
 
+- 2019/12/6 v4 リリース  
+  軽微な不具合を修正
+
 - 2019/11/14 v3 リリース  
-  不具合の修正
+  軽微な不具合を修正
 
 - 2019/10/23 v2 リリース  
-  不具合の修正
+  軽微な不具合を修正
 
 - 2019/10/2 v1 リリース
