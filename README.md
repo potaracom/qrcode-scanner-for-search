@@ -11,7 +11,7 @@ https://qiita.com/potara/items/a41432c708754b53e7f7
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-scanner-for-search/releases/download/v3/qrcode-scanner-for-search-ver3.plugin.zip  
+https://github.com/potaracom/qrcode-scanner-for-search/releases/download/v4/qrcode-scanner-for-search-ver4.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
