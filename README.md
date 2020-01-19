@@ -11,7 +11,7 @@ https://qiita.com/potara/items/a41432c708754b53e7f7
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-scanner-for-search/releases/download/v5/qrcode-scanner-for-search-ver5.plugin.zip  
+https://github.com/potaracom/qrcode-scanner-for-search/releases/download/v6/qrcode-scanner-for-search-ver6.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,9 @@ https://github.com/potaracom/qrcode-scanner-for-search/releases/download/v5/qrco
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2020/1/19 v6 リリース
+  カメラ起動時の負荷を低減
 
 - 2019/12/8 v5 リリース  
   軽微な不具合を修正
